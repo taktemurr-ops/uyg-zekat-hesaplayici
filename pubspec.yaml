@@ -16,7 +16,7 @@ dependencies:
   finans_motoru:
     git:
       url: https://github.com/taktemurr-ops/finans-motoru
-      ref: dabcfbac7c94525fa05bc5eaf37979c46dde117c
+      ref: 38cb805f120e96e10fbc04bf203cfb79afeaf2e3
 
 dev_dependencies:
   flutter_test:
